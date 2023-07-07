@@ -1,7 +1,5 @@
 # ba-project-fish
 
-Detectron2 
-
 1) DATASET PREPARATION
  - prepare_framesVal.py & prepare_framesTrain.py 
 split the dataset of images in a training set and a validation set (80/20)
@@ -23,9 +21,7 @@ For GTR, better to run on the GTR_FISH_NEW_CONFIG.yaml
 - fish_GTR.py
 File used to train on GTR -> fail (data not aligned in memory) when trying to display the predictions
 
-
-
-6) Others files
+6) OTHER FILES
 Several files to process the data to the correct form. 
 
 
