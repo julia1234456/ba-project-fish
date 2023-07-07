@@ -14,7 +14,7 @@ we can't select the annotated frames to be displayed in the json file directly f
 Most important file that allows to run on detectron2 with a custom dataset. 
 
 3) CONFIG FILES
-For GTR, better to run on the GTR_FISH_NEW_CONFIG.yaml
+- For GTR, better to run on the GTR_FISH_NEW_CONFIG.yaml
 
 4) GTR TRAINING
    
